@@ -20,9 +20,9 @@ Janša je moj :heart:, homosekusalci so :thumbsdown:.
 ### Umetna inteligenca
 Našo ciljno skupino se sicer da simulirati brez AI, seveda pa so vse izbolšave, ki bodo naredila projekt še bolj neznosen za slovenski twitter, zaželjene.
 ### Politična koreknost projekta
-Politična korektnost se v tržiču žal še ni razvila.
+Politična korektnost se v Tržiču žal še ni razvila.
 
-## Sodelovanje v projektu
+## Sodelovanje na projektu
 Trenutno projekt še ni niti v plenicah, pričakuje pa se lahko približen načrt dela in težave. 
 
 ## English Translation:
