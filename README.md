@@ -22,7 +22,7 @@ Našo ciljno skupino se sicer da simulirati brez AI, seveda pa so vse izbolšave
 ### Politična koreknost projekta
 Politična korektnost se v Tržiču žal še ni razvila.
 ### Izvedba
-Programa se bosta obnašala enako, različne bodo le njune preference.
+Programa se bosta obnašala enako, različne bodo le njune preference. Analiza besedila bo torej ista, le vrednotenje bo drugačno.
 Primer rekonstrukcije stavka "Po obdobju komunizma je sledil kapitalizem".
 Levičar | Desničar
 ------------ | -------------
