@@ -27,6 +27,9 @@ Primer rekonstrukcije stavka "Po obdobju komunizma je sledil kapitalizem".
 Levičar | Desničar
 ------------ | -------------
 Po svetem obdobju komunizma:purple_heart: je sledil nečloveški kapitalizem:rage:.|Po nečloveškem obdobju komunizma:rage: je sledil sveti kapitalizem:purple_heart:.
+
+Twitter API bi (če ga sploh bi) dodali na koncu. Na začetku bi spisali dober sistem za ustvarjanje sočnih političnih manifestov, haikujev in bolečih črtic maturitetne kakovosti. 
+**Projekt bi se v glavnem pisalo v pythonu.**
 ## Sodelovanje na projektu
 Trenutno projekt še ni niti v plenicah, pričakuje pa se lahko približen načrt dela in težave. Vsaka pomoč je dobrodošla.
 
