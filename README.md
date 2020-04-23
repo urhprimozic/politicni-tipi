@@ -10,7 +10,7 @@ Na podlagi baze podatkov bi opremila vhodno besedilo z čustvenčki in vzkliki, 
 Primer za Levičarja:
 Vhod | Izhod
 ------------ | -------------
-Luka nosi rdeč pulover in  ne mara Janeza. | Luka:heart: nosi rdeč :heart_eyes: pilover in ne mara Janeza :poop:.
+Luka nosi rdeč pulover in  ne mara Janeza. | Luka:heart: nosi rdeč :heart_eyes: pulover in ne mara Janeza :poop:.
 ### Twitter
 Svoje politične govore bi delila na twiterju, kjer bi tuje politične twite prejela kot vhodno besedilo. Seveda bosta oba nadobudna filozofa generirala tudi avtorsko prozo.
 
