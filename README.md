@@ -26,7 +26,7 @@ Programa se bosta obnašala enako, različne bodo le njune preference.
 Primer rekonstrukcije stavka "Po obdobju komunizma je sledil kapitalizem".
 Levičar | Desničar
 ------------ | -------------
-Po svetem obdobju komunizma:purple_heart: je sledil nečloveški kapitalizem:rage:.|Po nežloveškem obdobju komunizma:rage: je sledil sveti kapitalizem:purple_heart:.
+Po svetem obdobju komunizma:purple_heart: je sledil nečloveški kapitalizem:rage:.|Po nečloveškem obdobju komunizma:rage: je sledil sveti kapitalizem:purple_heart:.
 ## Sodelovanje na projektu
 Trenutno projekt še ni niti v plenicah, pričakuje pa se lahko približen načrt dela in težave. Vsaka pomoč je dobrodošla.
 
