@@ -23,7 +23,7 @@ Našo ciljno skupino se sicer da simulirati brez AI, seveda pa so vse izbolšave
 Politična korektnost se v Tržiču žal še ni razvila.
 
 ## Sodelovanje na projektu
-Trenutno projekt še ni niti v plenicah, pričakuje pa se lahko približen načrt dela in težave. 
+Trenutno projekt še ni niti v plenicah, pričakuje pa se lahko približen načrt dela in težave. Vsaka pomoč je dobrodošla.
 
 ## English Translation:
 Donald Bad <img src="https://render.githubusercontent.com/render/math?math=\iff"> my jokes good
