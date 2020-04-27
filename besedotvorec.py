@@ -1,5 +1,8 @@
 import emoji #https://pypi.org/project/emoji/
 
+def razdeli_na_besede(niz): 
+    return niz.split()
+
 class Politicni_Tip():
     """
     Razred, ki ustvari navdušenca nad politiko.
@@ -19,3 +22,6 @@ levicar = Politicni_Tip("Luka")
 #velikonolčno jajse za škofijce
 kristjan = Politicni_Tip("Severina")
 print(levicar.daj_glas())
+
+izjava = "Čakamo na janšaevre"
+print(razdeli_na_besede(izjava))
