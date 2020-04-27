@@ -6,14 +6,32 @@ Prijatelja Levičar in Desničar, ki na socialnih omrežjih delita svoje politi�
 2 samostojna programa (Levičar in Desničar) bi s pomočjo procesiranja besedila in aktivnosti na socialnih omrežjih simulirala obnašanje povprečnega slovenskega navdušenca nad politiko.
 ### Procesiranje in konstruiranje besedila
 Na podlagi baze podatkov bi opremila vhodno besedilo z čustvenčki in vzkliki, primernimi njunim političnim čustvom.
+
 Primer za Levičarja:
 Vhod | Izhod
 ------------ | -------------
-Luka nosi rdeč pulover in  mara Janeza. | Luka <3 nosi rdeč <3 pilover in ne mara Janeza.
+Luka nosi rdeč pulover in  ne mara Janeza. | Luka:heart: nosi rdeč :heart_eyes: pulover in ne mara Janeza :poop:.
 ### Twitter
-Svoje politične govore bi delila na twiterju, kjer bi tuje politične twite prejela kot vhodno besedilo.
+Svoje politične govore bi delila na twiterju, kjer bi tuje politične twite prejela kot vhodno besedilo. Seveda bosta oba nadobudna filozofa generirala tudi avtorsko prozo.
+
+Primer za Desničarja:
+
+Janša je moj :heart:, homosekusalci so :thumbsdown:.
 ### Umetna inteligenca
 Našo ciljno skupino se sicer da simulirati brez AI, seveda pa so vse izbolšave, ki bodo naredila projekt še bolj neznosen za slovenski twitter, zaželjene.
+### Politična koreknost projekta
+Politična korektnost se v Tržiču žal še ni razvila.
+### Izvedba
+Programa se bosta obnašala enako, različne bodo le njune preference. Analiza besedila bo torej ista, le vrednotenje bo drugačno.
+Primer rekonstrukcije stavka "Po obdobju komunizma je sledil kapitalizem".
+Levičar | Desničar
+------------ | -------------
+Po svetem obdobju komunizma:purple_heart: je sledil nečloveški kapitalizem:rage:.|Po nečloveškem obdobju komunizma:rage: je sledil sveti kapitalizem:purple_heart:.
+
+Twitter API bi (če ga sploh bi) dodali na koncu. Na začetku bi spisali dober sistem za ustvarjanje sočnih političnih manifestov, haikujev in bolečih črtic maturitetne kakovosti. 
+**Projekt bi se v glavnem pisalo v pythonu.**
+## Sodelovanje na projektu
+Trenutno projekt še ni niti v plenicah, pričakuje pa se lahko približen načrt dela in težave. Vsaka pomoč je dobrodošla.
 
 ## English Translation:
 Donald Bad <img src="https://render.githubusercontent.com/render/math?math=\iff"> my jokes good
