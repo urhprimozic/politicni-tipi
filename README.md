@@ -58,3 +58,9 @@ Potem z ukazom `git commit` ustvarite novo revizijo z novimi datotekami. (`add` 
 Med procesom vas bo git prosil, da spišete kratko besedilo o vaših spremembah. Za to vam lahko Špela razloži, kako se uporablja Vim:heart:.
 
 Nato spremembe objavite na streznik z `git push`, oziroma `git push https://github.com/urhprimozic/politicni-tipi.git` (baje, da windows nekaj nagaja).
+
+## Modul emoji
+Naš program po potreboval modul [emoji](https://pypi.org/project/emoji/), ki ga ni med standardnimi moduli v pythonu. Zato ga morate na svoj računalnik naložiti ročno. S pomočjo *pip*a ga naložite z ukazom `pip install emoji`. Na [spletni strani](https://pypi.org/project/emoji/) si poglejte primer uporabe.
+
+## conda
+...TO DO
