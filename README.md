@@ -11,7 +11,7 @@ Ustvarite prazno mapo in v njej odprite *git bash*. (desni klik *v mapi*, "open 
 Ob prvi uporabi (verjetno ob prvem commitu), vas bo git vprašal za osebne podatke. Takrat ga ubogate in naredite, kar hoče, saj je blazno prijazno bitje in si to zasluži.
 Aja, mogoče to vse dela tudi v osnovnem windowsovem terminalu in ni treba git basha.
 ### Uporaba
-Vsakič, preden začnete z delom, izven mape `politicni-tipi- poženite ukaz `git pull`, da pridobite najnovejše datoteke. Ko ste zadovoljni z delom in bi ga radi objavili nazaj, poženite:
+Vsakič, preden začnete z delom, izven mape `politicni-tipi` poženite ukaz `git pull`, da pridobite najnovejše datoteke. Ko ste zadovoljni z delom in bi ga radi objavili nazaj, poženite:
 `git add <ime_datoteke_ki_bi_jo_radi_dodali>` za dodajanje ene datoteke ali mape, oziroma
 `git add *` za dodajanje vsega v vrsto. _Preberite si kaj  regexu in o .gitignore_
 
