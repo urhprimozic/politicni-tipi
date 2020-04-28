@@ -5,10 +5,20 @@ V README.md so dovoljene slengovske tukje, koda in komantarji pa naj vsebujejo �
 1. Enostavna rešitev: naloži Linux. Če ne gre, glej (2)
 2. Sledite navodilom prof. Pretnarja na https://ucilnica.fmf.uni-lj.si/mod/page/view.php?id=37144 in si na računalnik namestite git
 ### Namen gita
-Ker nas na projektu dela več, potrebujemo dober sistem za izmenjavo kode. S pomočjo gita (NI isto kot github!) se vam ne bo treba ubadati z iskanjem tuje kode in najnovejših verzij, saj bo to delal git namesto vas. Vi boste programirali na lokalnem računalniku, git pa bo poskrbel, da imate vedno svežo kodo in objavil vašo na repozitorij. Prav tako uporablja črno magijo, da združi delo različnih ljudi v eno datoteko. (DuckDUckGO: *merge*).
+Ker nas na projektu dela več, potrebujemo dober sistem za izmenjavo kode. S pomočjo gita se vam ne bo treba ubadati z iskanjem tuje kode in najnovejših verzij, saj bo to delal git namesto vas. Vi boste programirali na lokalnem računalniku, git pa bo poskrbel, da imate vedno svežo kodo in objavil vašo na repozitorij. Prav tako uporablja črno magijo, da združi delo različnih ljudi v eno datoteko. (*merging*).
+### Priprava delovnega okolja za prvo uporabo
+Ustvarite prazno mapo in v njej odprite *git bash*. (desni klik *v mapi*, "open git bash here"). Za začetek morate naložiti vse dosedanje datoteke in ustvariti svoj lokalni git repozitorij. To storite z ukazom `git clone https://github.com/urhprimozic/politicni-tipi.git`.
+Ob prvi uporabi (verjetno ob prvem commitu), vas bo git vprašal za osebne podatke. Takrat ga ubogate in naredite, kar hoče, saj je blazno prijazno bitje in si to zasluži.
+Aja, mogoče to vse dela tudi v osnovnem windowsovem terminalu in ni treba git basha.
+### Uporaba
+Vsakič, preden začnete z delom, izven mape `politicni-tipi- poženite ukaz `git pull`, da pridobite najnovejše datoteke. Ko ste zadovoljni z delom in bi ga radi objavili nazaj, poženite:
+`git add <ime_datoteke_ki_bi_jo_radi_dodali>` za dodajanje ene datoteke ali mape, oziroma
+`git add *` za dodajanje vsega v vrsto. _Preberite si kaj  regexu in o .gitignore_
 
-### PRiprava delovnega okolja
-...rip pozna ura , bomo jutrsdf 
+Potem z ukazom `git commit` ustvarite novo revizijo z novimi datotekami. (`add` in `commit` lahko zdruzite z ukazom `git commit -a`).
+Med procesom vas bo git prosil, da spišete kratko besedilo o vaših spremembah. Za to vam lahko Špela razloži, kako se uporablja Vim:heart:.
+
+Nato spremembe objavite na streznik z `git push`, oziroma `git push https://github.com/urhprimozic/politicni-tipi.git` (baje, da windows nekaj nagaja).
 
 ## Trenutno bi bila ustreznejša uporaba dvojine
 Prijatelja Levičar in Desničar, ki na socialnih omrežjih delita svoje politične ideje.
