@@ -17,7 +17,7 @@ class Politicni_Tip():
         return self.heroj + emoji.emojize(':purple_heart:', use_aliases=True)
 
 
-#Lokalni testi
+#Lokalni testi - slaba rešitev dokler urh ne bo naredil kkšnih actions na githubu
 levicar = Politicni_Tip("Luka")
 #velikonolčno jajse za škofijce
 kristjan = Politicni_Tip("Severina")
