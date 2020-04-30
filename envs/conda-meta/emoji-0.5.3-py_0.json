@@ -1,0 +1,133 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "/home/urh/miniconda3/pkgs/emoji-0.5.3-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/emoji-0.5.3.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/emoji-0.5.3.dist-info/LICENSE.txt",
+    "lib/python3.8/site-packages/emoji-0.5.3.dist-info/METADATA",
+    "lib/python3.8/site-packages/emoji-0.5.3.dist-info/RECORD",
+    "lib/python3.8/site-packages/emoji-0.5.3.dist-info/WHEEL",
+    "lib/python3.8/site-packages/emoji-0.5.3.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/emoji-0.5.3.dist-info/zip-safe",
+    "lib/python3.8/site-packages/emoji/__init__.py",
+    "lib/python3.8/site-packages/emoji/core.py",
+    "lib/python3.8/site-packages/emoji/unicode_codes.py",
+    "lib/python3.8/site-packages/emoji/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/emoji/__pycache__/core.cpython-38.pyc",
+    "lib/python3.8/site-packages/emoji/__pycache__/unicode_codes.cpython-38.pyc"
+  ],
+  "fn": "emoji-0.5.3-py_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/home/urh/miniconda3/pkgs/emoji-0.5.3-py_0",
+    "type": 1
+  },
+  "md5": "3e63779ec42ce4bdbb5f809ecf7028d9",
+  "name": "emoji",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/urh/miniconda3/pkgs/emoji-0.5.3-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/emoji-0.5.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/emoji-0.5.3.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "2f2f93968c043f633d21dc7c4b335effe001512e8511410f1f7d682190dd752b",
+        "sha256_in_prefix": "2f2f93968c043f633d21dc7c4b335effe001512e8511410f1f7d682190dd752b",
+        "size_in_bytes": 1485
+      },
+      {
+        "_path": "site-packages/emoji-0.5.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "fd06e72bec7812bfba2ef140924f893a21ec1a1bec55c5ae22beed603734d2ae",
+        "sha256_in_prefix": "fd06e72bec7812bfba2ef140924f893a21ec1a1bec55c5ae22beed603734d2ae",
+        "size_in_bytes": 3270
+      },
+      {
+        "_path": "site-packages/emoji-0.5.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "11ed46499b1dba9ab8275611b79510497a59f78a89fc25265781aca55f77b049",
+        "sha256_in_prefix": "11ed46499b1dba9ab8275611b79510497a59f78a89fc25265781aca55f77b049",
+        "size_in_bytes": 850
+      },
+      {
+        "_path": "site-packages/emoji-0.5.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "ae121453793f815da20b2a4e34babecb0f2102f1ae5fe0680e02ffa2f0621d6d",
+        "sha256_in_prefix": "ae121453793f815da20b2a4e34babecb0f2102f1ae5fe0680e02ffa2f0621d6d",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "site-packages/emoji-0.5.3.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "5312b0b582d805303c95d7e2b1bc6fad70e04b3dde5413aae758b68767b06ada",
+        "sha256_in_prefix": "5312b0b582d805303c95d7e2b1bc6fad70e04b3dde5413aae758b68767b06ada",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "site-packages/emoji-0.5.3.dist-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/emoji/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0f3e335b501c1e1e30f44f56e770a254edeb0ae619f6e0b6bc33c65ad46bf8ac",
+        "sha256_in_prefix": "0f3e335b501c1e1e30f44f56e770a254edeb0ae619f6e0b6bc33c65ad46bf8ac",
+        "size_in_bytes": 2342
+      },
+      {
+        "_path": "site-packages/emoji/core.py",
+        "path_type": "hardlink",
+        "sha256": "ca089c120e80c7fdeb040dc05ac3c188845d6c2dbd6a8d6d2606346860901906",
+        "sha256_in_prefix": "ca089c120e80c7fdeb040dc05ac3c188845d6c2dbd6a8d6d2606346860901906",
+        "size_in_bytes": 3730
+      },
+      {
+        "_path": "site-packages/emoji/unicode_codes.py",
+        "path_type": "hardlink",
+        "sha256": "2ed69e6ce98d2258f7a6e7dfaf04d44eb6a63a6219703f370af45cd79185039e",
+        "sha256_in_prefix": "2ed69e6ce98d2258f7a6e7dfaf04d44eb6a63a6219703f370af45cd79185039e",
+        "size_in_bytes": 217951
+      },
+      {
+        "_path": "lib/python3.8/site-packages/emoji/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/emoji/__pycache__/core.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/emoji/__pycache__/unicode_codes.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "emoji",
+  "sha256": "f53b139ecb63618cdaeb6d98a3559791d06a0dd6c9bef44808e821a7c27f783d",
+  "size": 31524,
+  "subdir": "noarch",
+  "timestamp": 1564756909910,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/emoji-0.5.3-py_0.tar.bz2",
+  "version": "0.5.3"
+}

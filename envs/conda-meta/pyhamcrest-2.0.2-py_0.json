@@ -1,0 +1,821 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.5"
+  ],
+  "extracted_package_dir": "/home/urh/miniconda3/pkgs/pyhamcrest-2.0.2-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/PyHamcrest-2.0.2.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/PyHamcrest-2.0.2.dist-info/LICENSE.txt",
+    "lib/python3.8/site-packages/PyHamcrest-2.0.2.dist-info/METADATA",
+    "lib/python3.8/site-packages/PyHamcrest-2.0.2.dist-info/RECORD",
+    "lib/python3.8/site-packages/PyHamcrest-2.0.2.dist-info/WHEEL",
+    "lib/python3.8/site-packages/PyHamcrest-2.0.2.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/hamcrest/__init__.py",
+    "lib/python3.8/site-packages/hamcrest/core/__init__.py",
+    "lib/python3.8/site-packages/hamcrest/core/assert_that.py",
+    "lib/python3.8/site-packages/hamcrest/core/base_description.py",
+    "lib/python3.8/site-packages/hamcrest/core/base_matcher.py",
+    "lib/python3.8/site-packages/hamcrest/core/core/__init__.py",
+    "lib/python3.8/site-packages/hamcrest/core/core/allof.py",
+    "lib/python3.8/site-packages/hamcrest/core/core/anyof.py",
+    "lib/python3.8/site-packages/hamcrest/core/core/described_as.py",
+    "lib/python3.8/site-packages/hamcrest/core/core/is_.py",
+    "lib/python3.8/site-packages/hamcrest/core/core/isanything.py",
+    "lib/python3.8/site-packages/hamcrest/core/core/isequal.py",
+    "lib/python3.8/site-packages/hamcrest/core/core/isinstanceof.py",
+    "lib/python3.8/site-packages/hamcrest/core/core/isnone.py",
+    "lib/python3.8/site-packages/hamcrest/core/core/isnot.py",
+    "lib/python3.8/site-packages/hamcrest/core/core/issame.py",
+    "lib/python3.8/site-packages/hamcrest/core/core/raises.py",
+    "lib/python3.8/site-packages/hamcrest/core/description.py",
+    "lib/python3.8/site-packages/hamcrest/core/helpers/__init__.py",
+    "lib/python3.8/site-packages/hamcrest/core/helpers/hasmethod.py",
+    "lib/python3.8/site-packages/hamcrest/core/helpers/ismock.py",
+    "lib/python3.8/site-packages/hamcrest/core/helpers/wrap_matcher.py",
+    "lib/python3.8/site-packages/hamcrest/core/matcher.py",
+    "lib/python3.8/site-packages/hamcrest/core/selfdescribing.py",
+    "lib/python3.8/site-packages/hamcrest/core/selfdescribingvalue.py",
+    "lib/python3.8/site-packages/hamcrest/core/string_description.py",
+    "lib/python3.8/site-packages/hamcrest/library/__init__.py",
+    "lib/python3.8/site-packages/hamcrest/library/collection/__init__.py",
+    "lib/python3.8/site-packages/hamcrest/library/collection/is_empty.py",
+    "lib/python3.8/site-packages/hamcrest/library/collection/isdict_containing.py",
+    "lib/python3.8/site-packages/hamcrest/library/collection/isdict_containingentries.py",
+    "lib/python3.8/site-packages/hamcrest/library/collection/isdict_containingkey.py",
+    "lib/python3.8/site-packages/hamcrest/library/collection/isdict_containingvalue.py",
+    "lib/python3.8/site-packages/hamcrest/library/collection/isin.py",
+    "lib/python3.8/site-packages/hamcrest/library/collection/issequence_containing.py",
+    "lib/python3.8/site-packages/hamcrest/library/collection/issequence_containinginanyorder.py",
+    "lib/python3.8/site-packages/hamcrest/library/collection/issequence_containinginorder.py",
+    "lib/python3.8/site-packages/hamcrest/library/collection/issequence_onlycontaining.py",
+    "lib/python3.8/site-packages/hamcrest/library/integration/__init__.py",
+    "lib/python3.8/site-packages/hamcrest/library/integration/match_equality.py",
+    "lib/python3.8/site-packages/hamcrest/library/number/__init__.py",
+    "lib/python3.8/site-packages/hamcrest/library/number/iscloseto.py",
+    "lib/python3.8/site-packages/hamcrest/library/number/ordering_comparison.py",
+    "lib/python3.8/site-packages/hamcrest/library/object/__init__.py",
+    "lib/python3.8/site-packages/hamcrest/library/object/haslength.py",
+    "lib/python3.8/site-packages/hamcrest/library/object/hasproperty.py",
+    "lib/python3.8/site-packages/hamcrest/library/object/hasstring.py",
+    "lib/python3.8/site-packages/hamcrest/library/text/__init__.py",
+    "lib/python3.8/site-packages/hamcrest/library/text/isequal_ignoring_case.py",
+    "lib/python3.8/site-packages/hamcrest/library/text/isequal_ignoring_whitespace.py",
+    "lib/python3.8/site-packages/hamcrest/library/text/stringcontains.py",
+    "lib/python3.8/site-packages/hamcrest/library/text/stringcontainsinorder.py",
+    "lib/python3.8/site-packages/hamcrest/library/text/stringendswith.py",
+    "lib/python3.8/site-packages/hamcrest/library/text/stringmatches.py",
+    "lib/python3.8/site-packages/hamcrest/library/text/stringstartswith.py",
+    "lib/python3.8/site-packages/hamcrest/library/text/substringmatcher.py",
+    "lib/python3.8/site-packages/hamcrest/py.typed",
+    "lib/python3.8/site-packages/hamcrest/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/__pycache__/assert_that.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/__pycache__/base_description.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/__pycache__/base_matcher.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/allof.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/anyof.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/described_as.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/is_.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/isanything.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/isequal.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/isinstanceof.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/isnone.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/isnot.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/issame.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/raises.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/__pycache__/description.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/helpers/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/helpers/__pycache__/hasmethod.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/helpers/__pycache__/ismock.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/helpers/__pycache__/wrap_matcher.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/__pycache__/matcher.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/__pycache__/selfdescribing.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/__pycache__/selfdescribingvalue.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/core/__pycache__/string_description.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/is_empty.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/isdict_containing.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/isdict_containingentries.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/isdict_containingkey.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/isdict_containingvalue.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/isin.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/issequence_containing.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/issequence_containinginanyorder.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/issequence_containinginorder.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/issequence_onlycontaining.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/integration/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/integration/__pycache__/match_equality.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/number/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/number/__pycache__/iscloseto.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/number/__pycache__/ordering_comparison.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/object/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/object/__pycache__/haslength.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/object/__pycache__/hasproperty.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/object/__pycache__/hasstring.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/text/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/text/__pycache__/isequal_ignoring_case.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/text/__pycache__/isequal_ignoring_whitespace.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/text/__pycache__/stringcontains.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/text/__pycache__/stringcontainsinorder.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/text/__pycache__/stringendswith.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/text/__pycache__/stringmatches.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/text/__pycache__/stringstartswith.cpython-38.pyc",
+    "lib/python3.8/site-packages/hamcrest/library/text/__pycache__/substringmatcher.cpython-38.pyc"
+  ],
+  "fn": "pyhamcrest-2.0.2-py_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "/home/urh/miniconda3/pkgs/pyhamcrest-2.0.2-py_0",
+    "type": 1
+  },
+  "md5": "008bcb771d03dcd79b3585fa483d144f",
+  "name": "pyhamcrest",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/urh/miniconda3/pkgs/pyhamcrest-2.0.2-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/PyHamcrest-2.0.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/PyHamcrest-2.0.2.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "71beae6c8151362cfe398cbd350191a1cc52d3d28499839a7830b25f5b50a7fe",
+        "sha256_in_prefix": "71beae6c8151362cfe398cbd350191a1cc52d3d28499839a7830b25f5b50a7fe",
+        "size_in_bytes": 1468
+      },
+      {
+        "_path": "site-packages/PyHamcrest-2.0.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "93dcb53c6c1f42adfe6499f8ef821e4252ee31105bfe17c88f400597e0c62ee5",
+        "sha256_in_prefix": "93dcb53c6c1f42adfe6499f8ef821e4252ee31105bfe17c88f400597e0c62ee5",
+        "size_in_bytes": 15119
+      },
+      {
+        "_path": "site-packages/PyHamcrest-2.0.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "a40439f04d925caa99ef49a12ae75b4f010b45123709fe004a9fd256278cd95f",
+        "sha256_in_prefix": "a40439f04d925caa99ef49a12ae75b4f010b45123709fe004a9fd256278cd95f",
+        "size_in_bytes": 9515
+      },
+      {
+        "_path": "site-packages/PyHamcrest-2.0.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "8389ccb3b77e5e5f7ec42f57a2f52bb031c65edf854f4135ed8aa8f760c47ef6",
+        "sha256_in_prefix": "8389ccb3b77e5e5f7ec42f57a2f52bb031c65edf854f4135ed8aa8f760c47ef6",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/PyHamcrest-2.0.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "991734c8fb0f412a85816066641637deefb4e57b66e4ce0612f7b836361d9684",
+        "sha256_in_prefix": "991734c8fb0f412a85816066641637deefb4e57b66e4ce0612f7b836361d9684",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/hamcrest/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2dff811fbf4cbf45f1431450be3ee3463fe425b3e6b31de6b866ca0d83fd4234",
+        "sha256_in_prefix": "2dff811fbf4cbf45f1431450be3ee3463fe425b3e6b31de6b866ca0d83fd4234",
+        "size_in_bytes": 191
+      },
+      {
+        "_path": "site-packages/hamcrest/core/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "54e44c9e3829aff7ff0c05360d68cc59b37bf93c00a4e88960d8b6b55d59a6ab",
+        "sha256_in_prefix": "54e44c9e3829aff7ff0c05360d68cc59b37bf93c00a4e88960d8b6b55d59a6ab",
+        "size_in_bytes": 191
+      },
+      {
+        "_path": "site-packages/hamcrest/core/assert_that.py",
+        "path_type": "hardlink",
+        "sha256": "8e252818d36cb1bf789357ae854dc0c42a03c564587197a01f521978a9d2f35a",
+        "sha256_in_prefix": "8e252818d36cb1bf789357ae854dc0c42a03c564587197a01f521978a9d2f35a",
+        "size_in_bytes": 2821
+      },
+      {
+        "_path": "site-packages/hamcrest/core/base_description.py",
+        "path_type": "hardlink",
+        "sha256": "e6e2781a225612a151d520f7db31c0936bd477450eff84ad567999e3c866a2de",
+        "sha256_in_prefix": "e6e2781a225612a151d520f7db31c0936bd477450eff84ad567999e3c866a2de",
+        "size_in_bytes": 2028
+      },
+      {
+        "_path": "site-packages/hamcrest/core/base_matcher.py",
+        "path_type": "hardlink",
+        "sha256": "37a3f467c431deea3c366ae3b4e2c7db1692f4210cbdffd040a8e71c8ca24975",
+        "sha256_in_prefix": "37a3f467c431deea3c366ae3b4e2c7db1692f4210cbdffd040a8e71c8ca24975",
+        "size_in_bytes": 1495
+      },
+      {
+        "_path": "site-packages/hamcrest/core/core/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c60e50dae832ecbb0aaa0c7cf6eb7251bbd6191ab4376a2e12082ee678c92b5d",
+        "sha256_in_prefix": "c60e50dae832ecbb0aaa0c7cf6eb7251bbd6191ab4376a2e12082ee678c92b5d",
+        "size_in_bytes": 731
+      },
+      {
+        "_path": "site-packages/hamcrest/core/core/allof.py",
+        "path_type": "hardlink",
+        "sha256": "42528e50f4de07954b3900556e2d51560a7213817f08b2f53387d0444cc24f64",
+        "sha256_in_prefix": "42528e50f4de07954b3900556e2d51560a7213817f08b2f53387d0444cc24f64",
+        "size_in_bytes": 2319
+      },
+      {
+        "_path": "site-packages/hamcrest/core/core/anyof.py",
+        "path_type": "hardlink",
+        "sha256": "224daa5e12ed6f075dbd3ea915fd470ffeb1135a909b501abadf73d81d0b877e",
+        "sha256_in_prefix": "224daa5e12ed6f075dbd3ea915fd470ffeb1135a909b501abadf73d81d0b877e",
+        "size_in_bytes": 1332
+      },
+      {
+        "_path": "site-packages/hamcrest/core/core/described_as.py",
+        "path_type": "hardlink",
+        "sha256": "3d3dfc4e9e2b0911562d658e1332cf34faff27d1ce6b800e3ddcdbd508ba51fe",
+        "sha256_in_prefix": "3d3dfc4e9e2b0911562d658e1332cf34faff27d1ce6b800e3ddcdbd508ba51fe",
+        "size_in_bytes": 1939
+      },
+      {
+        "_path": "site-packages/hamcrest/core/core/is_.py",
+        "path_type": "hardlink",
+        "sha256": "8f85153da2dbc0abb28d298cc894c4b58b20c5a7adf39e8e53a731438fc4b242",
+        "sha256_in_prefix": "8f85153da2dbc0abb28d298cc894c4b58b20c5a7adf39e8e53a731438fc4b242",
+        "size_in_bytes": 3040
+      },
+      {
+        "_path": "site-packages/hamcrest/core/core/isanything.py",
+        "path_type": "hardlink",
+        "sha256": "2afc1b947fe802c95f7d54f0cdf6f8834a59a5c2c1c13c21d88a8ddb79bb2681",
+        "sha256_in_prefix": "2afc1b947fe802c95f7d54f0cdf6f8834a59a5c2c1c13c21d88a8ddb79bb2681",
+        "size_in_bytes": 975
+      },
+      {
+        "_path": "site-packages/hamcrest/core/core/isequal.py",
+        "path_type": "hardlink",
+        "sha256": "2fc850f6f272c61c7d094d31a1ecf2ac038e65c94f838969daa5a48f9a1955a1",
+        "sha256_in_prefix": "2fc850f6f272c61c7d094d31a1ecf2ac038e65c94f838969daa5a48f9a1955a1",
+        "size_in_bytes": 1039
+      },
+      {
+        "_path": "site-packages/hamcrest/core/core/isinstanceof.py",
+        "path_type": "hardlink",
+        "sha256": "ad67531df323c5a409adf01b593438655c55a0173f80bfc4ea14d45f81a47d88",
+        "sha256_in_prefix": "ad67531df323c5a409adf01b593438655c55a0173f80bfc4ea14d45f81a47d88",
+        "size_in_bytes": 1261
+      },
+      {
+        "_path": "site-packages/hamcrest/core/core/isnone.py",
+        "path_type": "hardlink",
+        "sha256": "b6d81b53f7d31fea1843eae47ad444f17f841d248124e786fc5b15d966408e20",
+        "sha256_in_prefix": "b6d81b53f7d31fea1843eae47ad444f17f841d248124e786fc5b15d966408e20",
+        "size_in_bytes": 745
+      },
+      {
+        "_path": "site-packages/hamcrest/core/core/isnot.py",
+        "path_type": "hardlink",
+        "sha256": "854b9bdd82ec3c7b2c5fb6b6dfb8c0eac131e542533487328c3ff53c2e21f1dc",
+        "sha256_in_prefix": "854b9bdd82ec3c7b2c5fb6b6dfb8c0eac131e542533487328c3ff53c2e21f1dc",
+        "size_in_bytes": 2186
+      },
+      {
+        "_path": "site-packages/hamcrest/core/core/issame.py",
+        "path_type": "hardlink",
+        "sha256": "b72cbc2cf8b1f51047de5d811d033098f760a8ddd138f3fd504c40d36e88c9cb",
+        "sha256_in_prefix": "b72cbc2cf8b1f51047de5d811d033098f760a8ddd138f3fd504c40d36e88c9cb",
+        "size_in_bytes": 1344
+      },
+      {
+        "_path": "site-packages/hamcrest/core/core/raises.py",
+        "path_type": "hardlink",
+        "sha256": "4bbe75f57e6732a630dcadd15aa0eba006adec9d9380135316e18a0af3bcc3a0",
+        "sha256_in_prefix": "4bbe75f57e6732a630dcadd15aa0eba006adec9d9380135316e18a0af3bcc3a0",
+        "size_in_bytes": 5384
+      },
+      {
+        "_path": "site-packages/hamcrest/core/description.py",
+        "path_type": "hardlink",
+        "sha256": "c3fb7aa6257b8dd78d522e4114dbed7a915be2e3927a8f2e990fe5b5a468529a",
+        "sha256_in_prefix": "c3fb7aa6257b8dd78d522e4114dbed7a915be2e3927a8f2e990fe5b5a468529a",
+        "size_in_bytes": 1545
+      },
+      {
+        "_path": "site-packages/hamcrest/core/helpers/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "98fb32718235f0ba066b03a8f417c44daef22ad9ccf9f0e314eaf8dc121ebd48",
+        "sha256_in_prefix": "98fb32718235f0ba066b03a8f417c44daef22ad9ccf9f0e314eaf8dc121ebd48",
+        "size_in_bytes": 146
+      },
+      {
+        "_path": "site-packages/hamcrest/core/helpers/hasmethod.py",
+        "path_type": "hardlink",
+        "sha256": "cb64deee6d9e7632ec6451fb01a76d9eff3560a8254ebe6b62dafce0efec1a03",
+        "sha256_in_prefix": "cb64deee6d9e7632ec6451fb01a76d9eff3560a8254ebe6b62dafce0efec1a03",
+        "size_in_bytes": 346
+      },
+      {
+        "_path": "site-packages/hamcrest/core/helpers/ismock.py",
+        "path_type": "hardlink",
+        "sha256": "9cca738ebe309cfe8a04980d1bd2bae7acf7c766edf3e4d91d6db1d3cc29c4b1",
+        "sha256_in_prefix": "9cca738ebe309cfe8a04980d1bd2bae7acf7c766edf3e4d91d6db1d3cc29c4b1",
+        "size_in_bytes": 327
+      },
+      {
+        "_path": "site-packages/hamcrest/core/helpers/wrap_matcher.py",
+        "path_type": "hardlink",
+        "sha256": "fbe37d5cda01c86c3f2fb71debaa61408ba45d4cd1c0b915c2a7f0fbe3db63ec",
+        "sha256_in_prefix": "fbe37d5cda01c86c3f2fb71debaa61408ba45d4cd1c0b915c2a7f0fbe3db63ec",
+        "size_in_bytes": 748
+      },
+      {
+        "_path": "site-packages/hamcrest/core/matcher.py",
+        "path_type": "hardlink",
+        "sha256": "af36d77a2cd562e6cfade238b7a2de153ce3f00d6eee055e982d6267bc196fe3",
+        "sha256_in_prefix": "af36d77a2cd562e6cfade238b7a2de153ce3f00d6eee055e982d6267bc196fe3",
+        "size_in_bytes": 2664
+      },
+      {
+        "_path": "site-packages/hamcrest/core/selfdescribing.py",
+        "path_type": "hardlink",
+        "sha256": "244bbb8f3051c9974d814156d679926eef80553055d380cc37f9618004363162",
+        "sha256_in_prefix": "244bbb8f3051c9974d814156d679926eef80553055d380cc37f9618004363162",
+        "size_in_bytes": 638
+      },
+      {
+        "_path": "site-packages/hamcrest/core/selfdescribingvalue.py",
+        "path_type": "hardlink",
+        "sha256": "cff1cdc6a8178f0dcf27e32235011ded47fe502a7bff392163fb62b6e882788d",
+        "sha256_in_prefix": "cff1cdc6a8178f0dcf27e32235011ded47fe502a7bff392163fb62b6e882788d",
+        "size_in_bytes": 928
+      },
+      {
+        "_path": "site-packages/hamcrest/core/string_description.py",
+        "path_type": "hardlink",
+        "sha256": "216a9dbb77ac1d654fbf6f0fde852cd18f14417087655a52176aecfd7398a3eb",
+        "sha256_in_prefix": "216a9dbb77ac1d654fbf6f0fde852cd18f14417087655a52176aecfd7398a3eb",
+        "size_in_bytes": 940
+      },
+      {
+        "_path": "site-packages/hamcrest/library/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b5ff672705c577279fdb43120fcd51d715a18de71b91e0afb2db40e6eedfa57d",
+        "sha256_in_prefix": "b5ff672705c577279fdb43120fcd51d715a18de71b91e0afb2db40e6eedfa57d",
+        "size_in_bytes": 999
+      },
+      {
+        "_path": "site-packages/hamcrest/library/collection/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "78d253149f0edf813f3ca26243d4bd5e10f0cac7d62bb7f601908b002a051b01",
+        "sha256_in_prefix": "78d253149f0edf813f3ca26243d4bd5e10f0cac7d62bb7f601908b002a051b01",
+        "size_in_bytes": 614
+      },
+      {
+        "_path": "site-packages/hamcrest/library/collection/is_empty.py",
+        "path_type": "hardlink",
+        "sha256": "0b1b5e212767d4d7bbe41c2f33a9b603c71c7e254c65abf4741c5a4eb8437856",
+        "sha256_in_prefix": "0b1b5e212767d4d7bbe41c2f33a9b603c71c7e254c65abf4741c5a4eb8437856",
+        "size_in_bytes": 1076
+      },
+      {
+        "_path": "site-packages/hamcrest/library/collection/isdict_containing.py",
+        "path_type": "hardlink",
+        "sha256": "5ab5e59fa609e8ec3471ff7bc8bd976cd21d0bcd568e3f44ba8afdac1c733d13",
+        "sha256_in_prefix": "5ab5e59fa609e8ec3471ff7bc8bd976cd21d0bcd568e3f44ba8afdac1c733d13",
+        "size_in_bytes": 2305
+      },
+      {
+        "_path": "site-packages/hamcrest/library/collection/isdict_containingentries.py",
+        "path_type": "hardlink",
+        "sha256": "34b53db3930b258bcf5f7abf4242f6e1759d4a8869abc2c252389074edc6518b",
+        "sha256_in_prefix": "34b53db3930b258bcf5f7abf4242f6e1759d4a8869abc2c252389074edc6518b",
+        "size_in_bytes": 5692
+      },
+      {
+        "_path": "site-packages/hamcrest/library/collection/isdict_containingkey.py",
+        "path_type": "hardlink",
+        "sha256": "beee99aa9c29909fdecfefc83aa88ef889fb20217d56cf24357d55456742b669",
+        "sha256_in_prefix": "beee99aa9c29909fdecfefc83aa88ef889fb20217d56cf24357d55456742b669",
+        "size_in_bytes": 1829
+      },
+      {
+        "_path": "site-packages/hamcrest/library/collection/isdict_containingvalue.py",
+        "path_type": "hardlink",
+        "sha256": "4b4f1106476bcd85b5511b1d8f7b566b1c9ad2e51d637081dc2758324b430753",
+        "sha256_in_prefix": "4b4f1106476bcd85b5511b1d8f7b566b1c9ad2e51d637081dc2758324b430753",
+        "size_in_bytes": 1835
+      },
+      {
+        "_path": "site-packages/hamcrest/library/collection/isin.py",
+        "path_type": "hardlink",
+        "sha256": "fdf3404b9e661d56196bfd403877b5b62d68695ea0917afbac37c2ac0d1952d1",
+        "sha256_in_prefix": "fdf3404b9e661d56196bfd403877b5b62d68695ea0917afbac37c2ac0d1952d1",
+        "size_in_bytes": 977
+      },
+      {
+        "_path": "site-packages/hamcrest/library/collection/issequence_containing.py",
+        "path_type": "hardlink",
+        "sha256": "c3a19297fe6372d2500d85655aa6aef2c0c68733f637441ffe0f36cf74f25480",
+        "sha256_in_prefix": "c3a19297fe6372d2500d85655aa6aef2c0c68733f637441ffe0f36cf74f25480",
+        "size_in_bytes": 3432
+      },
+      {
+        "_path": "site-packages/hamcrest/library/collection/issequence_containinginanyorder.py",
+        "path_type": "hardlink",
+        "sha256": "90e447d77ec00ae2426a1e4a1da5b469ece416c8bacbd57d581b9b6a24235cc9",
+        "sha256_in_prefix": "90e447d77ec00ae2426a1e4a1da5b469ece416c8bacbd57d581b9b6a24235cc9",
+        "size_in_bytes": 3869
+      },
+      {
+        "_path": "site-packages/hamcrest/library/collection/issequence_containinginorder.py",
+        "path_type": "hardlink",
+        "sha256": "8c66188af2c05b39454f25d2143927254cf7416c0b93b5035c5c09f7a66c45b8",
+        "sha256_in_prefix": "8c66188af2c05b39454f25d2143927254cf7416c0b93b5035c5c09f7a66c45b8",
+        "size_in_bytes": 3833
+      },
+      {
+        "_path": "site-packages/hamcrest/library/collection/issequence_onlycontaining.py",
+        "path_type": "hardlink",
+        "sha256": "af73ccf3cff6b18e73d7cf7c986d823362a565309584d0c5c6e2366a093c24c7",
+        "sha256_in_prefix": "af73ccf3cff6b18e73d7cf7c986d823362a565309584d0c5c6e2366a093c24c7",
+        "size_in_bytes": 1841
+      },
+      {
+        "_path": "site-packages/hamcrest/library/integration/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c0814f9149e1d4291c3833eff8a290fe13cc1867642df32721b2200f29753231",
+        "sha256_in_prefix": "c0814f9149e1d4291c3833eff8a290fe13cc1867642df32721b2200f29753231",
+        "size_in_bytes": 215
+      },
+      {
+        "_path": "site-packages/hamcrest/library/integration/match_equality.py",
+        "path_type": "hardlink",
+        "sha256": "ad36b501eff283569e6fc3d65b5c92173b7d04f818a5de9374b47da38006b24a",
+        "sha256_in_prefix": "ad36b501eff283569e6fc3d65b5c92173b7d04f818a5de9374b47da38006b24a",
+        "size_in_bytes": 1323
+      },
+      {
+        "_path": "site-packages/hamcrest/library/number/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a84b08df0c12219b5741f6db573bd862299d477d5d78e16a0d277c8622dcfa3d",
+        "sha256_in_prefix": "a84b08df0c12219b5741f6db573bd862299d477d5d78e16a0d277c8622dcfa3d",
+        "size_in_bytes": 317
+      },
+      {
+        "_path": "site-packages/hamcrest/library/number/iscloseto.py",
+        "path_type": "hardlink",
+        "sha256": "7b5ffeaf461919c8dfea6a00d71f3fbaf3059921d8c08d3d46ed4bc7d8786734",
+        "sha256_in_prefix": "7b5ffeaf461919c8dfea6a00d71f3fbaf3059921d8c08d3d46ed4bc7d8786734",
+        "size_in_bytes": 2742
+      },
+      {
+        "_path": "site-packages/hamcrest/library/number/ordering_comparison.py",
+        "path_type": "hardlink",
+        "sha256": "411639dd0ebc6d32f0abc127a2bbcd6b803b5ab29d5f0e641e2fa6cdc333b01d",
+        "sha256_in_prefix": "411639dd0ebc6d32f0abc127a2bbcd6b803b5ab29d5f0e641e2fa6cdc333b01d",
+        "size_in_bytes": 1939
+      },
+      {
+        "_path": "site-packages/hamcrest/library/object/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "18e44e33798d199b0ed3d28c36d913f655150dc2b0bb38b8a106b99ea6070fa8",
+        "sha256_in_prefix": "18e44e33798d199b0ed3d28c36d913f655150dc2b0bb38b8a106b99ea6070fa8",
+        "size_in_bytes": 280
+      },
+      {
+        "_path": "site-packages/hamcrest/library/object/haslength.py",
+        "path_type": "hardlink",
+        "sha256": "58b3d02546d478bbc8b13a26fc1711061bd320046fd09f21024eb67b8f5225ec",
+        "sha256_in_prefix": "58b3d02546d478bbc8b13a26fc1711061bd320046fd09f21024eb67b8f5225ec",
+        "size_in_bytes": 1905
+      },
+      {
+        "_path": "site-packages/hamcrest/library/object/hasproperty.py",
+        "path_type": "hardlink",
+        "sha256": "d185f31d73c86b9e99acd06b238f3ad7e63bf73c009e51bb3fd894023c209149",
+        "sha256_in_prefix": "d185f31d73c86b9e99acd06b238f3ad7e63bf73c009e51bb3fd894023c209149",
+        "size_in_bytes": 7154
+      },
+      {
+        "_path": "site-packages/hamcrest/library/object/hasstring.py",
+        "path_type": "hardlink",
+        "sha256": "ad94e065bae1ceccb443091723f301500af4e895338fe526ddfed39ae561ed57",
+        "sha256_in_prefix": "ad94e065bae1ceccb443091723f301500af4e895338fe526ddfed39ae561ed57",
+        "size_in_bytes": 1395
+      },
+      {
+        "_path": "site-packages/hamcrest/library/text/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "62e32085566c7c5395147100546aaca3e2bd187e53038bb0430f952d0cb9dd70",
+        "sha256_in_prefix": "62e32085566c7c5395147100546aaca3e2bd187e53038bb0430f952d0cb9dd70",
+        "size_in_bytes": 509
+      },
+      {
+        "_path": "site-packages/hamcrest/library/text/isequal_ignoring_case.py",
+        "path_type": "hardlink",
+        "sha256": "d77d7f71b3f173e3a3894323399a3524d68ee8494d62747e16084ee28c84b2f1",
+        "sha256_in_prefix": "d77d7f71b3f173e3a3894323399a3524d68ee8494d62747e16084ee28c84b2f1",
+        "size_in_bytes": 1359
+      },
+      {
+        "_path": "site-packages/hamcrest/library/text/isequal_ignoring_whitespace.py",
+        "path_type": "hardlink",
+        "sha256": "f36f6eb2c49e16dcc8a7e4a30cd0a0523e172f66456c900036af45bb8bc228ab",
+        "sha256_in_prefix": "f36f6eb2c49e16dcc8a7e4a30cd0a0523e172f66456c900036af45bb8bc228ab",
+        "size_in_bytes": 1776
+      },
+      {
+        "_path": "site-packages/hamcrest/library/text/stringcontains.py",
+        "path_type": "hardlink",
+        "sha256": "8b1ec796a28c8c786ab383e15fee4668d01d47d1caa87620e9891874a0649138",
+        "sha256_in_prefix": "8b1ec796a28c8c786ab383e15fee4668d01d47d1caa87620e9891874a0649138",
+        "size_in_bytes": 1036
+      },
+      {
+        "_path": "site-packages/hamcrest/library/text/stringcontainsinorder.py",
+        "path_type": "hardlink",
+        "sha256": "b27c686b6636ba6218e280b63b5cd6ae32a5a6a0db61e3647f6685c691284def",
+        "sha256_in_prefix": "b27c686b6636ba6218e280b63b5cd6ae32a5a6a0db61e3647f6685c691284def",
+        "size_in_bytes": 1774
+      },
+      {
+        "_path": "site-packages/hamcrest/library/text/stringendswith.py",
+        "path_type": "hardlink",
+        "sha256": "1d9e3717cbaf6b87420bb664af11eb3829c462d1b0bbb9ca932b12f6c5d3342c",
+        "sha256_in_prefix": "1d9e3717cbaf6b87420bb664af11eb3829c462d1b0bbb9ca932b12f6c5d3342c",
+        "size_in_bytes": 1063
+      },
+      {
+        "_path": "site-packages/hamcrest/library/text/stringmatches.py",
+        "path_type": "hardlink",
+        "sha256": "9eaf0aed67055c240a747ff3ad716a25af83b65b57aa66f70b6cb12b8de19477",
+        "sha256_in_prefix": "9eaf0aed67055c240a747ff3ad716a25af83b65b57aa66f70b6cb12b8de19477",
+        "size_in_bytes": 1233
+      },
+      {
+        "_path": "site-packages/hamcrest/library/text/stringstartswith.py",
+        "path_type": "hardlink",
+        "sha256": "9486f43ee06511eadb3e5a8159d4d6dcb1216155e3353ba864a84337c1e1db41",
+        "sha256_in_prefix": "9486f43ee06511eadb3e5a8159d4d6dcb1216155e3353ba864a84337c1e1db41",
+        "size_in_bytes": 1090
+      },
+      {
+        "_path": "site-packages/hamcrest/library/text/substringmatcher.py",
+        "path_type": "hardlink",
+        "sha256": "262f8eaef17406beca80c00b82df8bb44d56aaacd4ad7da3dfe242056c7be5f3",
+        "sha256_in_prefix": "262f8eaef17406beca80c00b82df8bb44d56aaacd4ad7da3dfe242056c7be5f3",
+        "size_in_bytes": 786
+      },
+      {
+        "_path": "site-packages/hamcrest/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/__pycache__/assert_that.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/__pycache__/base_description.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/__pycache__/base_matcher.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/allof.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/anyof.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/described_as.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/is_.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/isanything.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/isequal.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/isinstanceof.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/isnone.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/isnot.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/issame.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/core/__pycache__/raises.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/__pycache__/description.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/helpers/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/helpers/__pycache__/hasmethod.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/helpers/__pycache__/ismock.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/helpers/__pycache__/wrap_matcher.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/__pycache__/matcher.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/__pycache__/selfdescribing.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/__pycache__/selfdescribingvalue.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/core/__pycache__/string_description.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/is_empty.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/isdict_containing.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/isdict_containingentries.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/isdict_containingkey.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/isdict_containingvalue.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/isin.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/issequence_containing.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/issequence_containinginanyorder.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/issequence_containinginorder.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/collection/__pycache__/issequence_onlycontaining.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/integration/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/integration/__pycache__/match_equality.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/number/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/number/__pycache__/iscloseto.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/number/__pycache__/ordering_comparison.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/object/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/object/__pycache__/haslength.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/object/__pycache__/hasproperty.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/object/__pycache__/hasstring.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/text/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/text/__pycache__/isequal_ignoring_case.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/text/__pycache__/isequal_ignoring_whitespace.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/text/__pycache__/stringcontains.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/text/__pycache__/stringcontainsinorder.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/text/__pycache__/stringendswith.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/text/__pycache__/stringmatches.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/text/__pycache__/stringstartswith.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/hamcrest/library/text/__pycache__/substringmatcher.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "9dab3bb1a81b5b9216b10e63dda8ed432de8671a775cb7ab502be91bd9ec4dc1",
+  "size": 29943,
+  "subdir": "noarch",
+  "timestamp": 1583163302821,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/pyhamcrest-2.0.2-py_0.tar.bz2",
+  "version": "2.0.2"
+}

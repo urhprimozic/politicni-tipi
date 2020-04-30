@@ -1,0 +1,13 @@
+prefix=/mnt/Podatki/Programiranje/politicni-tipi/politicni-tipi/envs
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+modules=1
+
+Name: libXML
+Version: 2.9.10
+Description: libXML library version2.
+Requires:
+Libs: -L${libdir} -lxml2
+Libs.private: -L/mnt/Podatki/Programiranje/politicni-tipi/politicni-tipi/envs/lib -licui18n -licuuc -licudata -lpthread -L/mnt/Podatki/Programiranje/politicni-tipi/politicni-tipi/envs/lib -lz -L/mnt/Podatki/Programiranje/politicni-tipi/politicni-tipi/envs/lib -llzma -L/mnt/Podatki/Programiranje/politicni-tipi/politicni-tipi/envs/lib -liconv -lm  
+Cflags: -I${includedir}/libxml2 -I/mnt/Podatki/Programiranje/politicni-tipi/politicni-tipi/envs/include 

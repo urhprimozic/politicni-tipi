@@ -1,0 +1,190 @@
+{
+  "build": "pyh9f0ad1d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "/home/urh/miniconda3/pkgs/queuelib-1.5.0-pyh9f0ad1d_0",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/queuelib-1.5.0.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/queuelib-1.5.0.dist-info/LICENSE",
+    "lib/python3.8/site-packages/queuelib-1.5.0.dist-info/METADATA",
+    "lib/python3.8/site-packages/queuelib-1.5.0.dist-info/RECORD",
+    "lib/python3.8/site-packages/queuelib-1.5.0.dist-info/WHEEL",
+    "lib/python3.8/site-packages/queuelib-1.5.0.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/queuelib/__init__.py",
+    "lib/python3.8/site-packages/queuelib/pqueue.py",
+    "lib/python3.8/site-packages/queuelib/queue.py",
+    "lib/python3.8/site-packages/queuelib/rrqueue.py",
+    "lib/python3.8/site-packages/queuelib/tests/__init__.py",
+    "lib/python3.8/site-packages/queuelib/tests/test_pqueue.py",
+    "lib/python3.8/site-packages/queuelib/tests/test_queue.py",
+    "lib/python3.8/site-packages/queuelib/tests/test_rrqueue.py",
+    "lib/python3.8/site-packages/queuelib/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/queuelib/__pycache__/pqueue.cpython-38.pyc",
+    "lib/python3.8/site-packages/queuelib/__pycache__/queue.cpython-38.pyc",
+    "lib/python3.8/site-packages/queuelib/__pycache__/rrqueue.cpython-38.pyc",
+    "lib/python3.8/site-packages/queuelib/tests/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/queuelib/tests/__pycache__/test_pqueue.cpython-38.pyc",
+    "lib/python3.8/site-packages/queuelib/tests/__pycache__/test_queue.cpython-38.pyc",
+    "lib/python3.8/site-packages/queuelib/tests/__pycache__/test_rrqueue.cpython-38.pyc"
+  ],
+  "fn": "queuelib-1.5.0-pyh9f0ad1d_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/home/urh/miniconda3/pkgs/queuelib-1.5.0-pyh9f0ad1d_0",
+    "type": 1
+  },
+  "md5": "223061cc74082d1b79c9bc2ce260389e",
+  "name": "queuelib",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/urh/miniconda3/pkgs/queuelib-1.5.0-pyh9f0ad1d_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/queuelib-1.5.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/queuelib-1.5.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "13d9ddde1b026748ce91b799f32f9741fd5ecc2bfdf267174a10fb49610c61ab",
+        "sha256_in_prefix": "13d9ddde1b026748ce91b799f32f9741fd5ecc2bfdf267174a10fb49610c61ab",
+        "size_in_bytes": 1531
+      },
+      {
+        "_path": "site-packages/queuelib-1.5.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "2ca6e2e06e9dc1afcfd05bca0e5530797c48b5284a4a89a58cfefdff550dc6b8",
+        "sha256_in_prefix": "2ca6e2e06e9dc1afcfd05bca0e5530797c48b5284a4a89a58cfefdff550dc6b8",
+        "size_in_bytes": 5011
+      },
+      {
+        "_path": "site-packages/queuelib-1.5.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "d829aa3794abc6ab9d36798332df399468dd7c4580d929746acbf2e9d10617ee",
+        "sha256_in_prefix": "d829aa3794abc6ab9d36798332df399468dd7c4580d929746acbf2e9d10617ee",
+        "size_in_bytes": 1545
+      },
+      {
+        "_path": "site-packages/queuelib-1.5.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046",
+        "sha256_in_prefix": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/queuelib-1.5.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "2b968664679e6003f63a2434dceaa2ac2aa019053cac9c0f5686fd9e3bbbc166",
+        "sha256_in_prefix": "2b968664679e6003f63a2434dceaa2ac2aa019053cac9c0f5686fd9e3bbbc166",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/queuelib/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d5cf585e48c6eadb219a0dea52791e3fdd12038294785881a25e7f4bc33fd40c",
+        "sha256_in_prefix": "d5cf585e48c6eadb219a0dea52791e3fdd12038294785881a25e7f4bc33fd40c",
+        "size_in_bytes": 142
+      },
+      {
+        "_path": "site-packages/queuelib/pqueue.py",
+        "path_type": "hardlink",
+        "sha256": "ce022603d20370908fd24fe62001eba266d725f117751d6736f8172e29d712c3",
+        "sha256_in_prefix": "ce022603d20370908fd24fe62001eba266d725f117751d6736f8172e29d712c3",
+        "size_in_bytes": 2014
+      },
+      {
+        "_path": "site-packages/queuelib/queue.py",
+        "path_type": "hardlink",
+        "sha256": "827bf69eacc936ff2f1016983fe1cbfa6439afd8950e684aee24de549e10015c",
+        "sha256_in_prefix": "827bf69eacc936ff2f1016983fe1cbfa6439afd8950e684aee24de549e10015c",
+        "size_in_bytes": 6610
+      },
+      {
+        "_path": "site-packages/queuelib/rrqueue.py",
+        "path_type": "hardlink",
+        "sha256": "4c11f926311b6841efcca86e0c9d8545ec6dc838a806ba2d9567607b3a5a776a",
+        "sha256_in_prefix": "4c11f926311b6841efcca86e0c9d8545ec6dc838a806ba2d9567607b3a5a776a",
+        "size_in_bytes": 2213
+      },
+      {
+        "_path": "site-packages/queuelib/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b9fb9e3ba4d43a0e1751c540d3722cd826321cc00b3c72e6312c9da62a735ee0",
+        "sha256_in_prefix": "b9fb9e3ba4d43a0e1751c540d3722cd826321cc00b3c72e6312c9da62a735ee0",
+        "size_in_bytes": 831
+      },
+      {
+        "_path": "site-packages/queuelib/tests/test_pqueue.py",
+        "path_type": "hardlink",
+        "sha256": "83d835f60b8bd66b6ae480d416472f960b37ec675b5634499cd923ab1d4343ea",
+        "sha256_in_prefix": "83d835f60b8bd66b6ae480d416472f960b37ec675b5634499cd923ab1d4343ea",
+        "size_in_bytes": 5818
+      },
+      {
+        "_path": "site-packages/queuelib/tests/test_queue.py",
+        "path_type": "hardlink",
+        "sha256": "77b1916f19318ef39a13366a861c1449ee66ae7f3dd813d277b2933ddee6c265",
+        "sha256_in_prefix": "77b1916f19318ef39a13366a861c1449ee66ae7f3dd813d277b2933ddee6c265",
+        "size_in_bytes": 6338
+      },
+      {
+        "_path": "site-packages/queuelib/tests/test_rrqueue.py",
+        "path_type": "hardlink",
+        "sha256": "af18825c8a6320033d3a5cd4477a51198ac673d5f0b34e81722df3796895b32a",
+        "sha256_in_prefix": "af18825c8a6320033d3a5cd4477a51198ac673d5f0b34e81722df3796895b32a",
+        "size_in_bytes": 4549
+      },
+      {
+        "_path": "lib/python3.8/site-packages/queuelib/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/queuelib/__pycache__/pqueue.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/queuelib/__pycache__/queue.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/queuelib/__pycache__/rrqueue.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/queuelib/tests/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/queuelib/tests/__pycache__/test_pqueue.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/queuelib/tests/__pycache__/test_queue.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/queuelib/tests/__pycache__/test_rrqueue.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "77b413c2d5851eaee82f7a5e9de40d72c609f891ebd3af13788de3b969e4a4c1",
+  "size": 12871,
+  "subdir": "noarch",
+  "timestamp": 1587746362921,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/queuelib-1.5.0-pyh9f0ad1d_0.tar.bz2",
+  "version": "1.5.0"
+}

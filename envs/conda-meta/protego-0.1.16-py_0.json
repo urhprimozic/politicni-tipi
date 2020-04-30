@@ -1,0 +1,99 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python",
+    "six"
+  ],
+  "extracted_package_dir": "/home/urh/miniconda3/pkgs/protego-0.1.16-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/Protego-0.1.16.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/Protego-0.1.16.dist-info/LICENSE",
+    "lib/python3.8/site-packages/Protego-0.1.16.dist-info/METADATA",
+    "lib/python3.8/site-packages/Protego-0.1.16.dist-info/RECORD",
+    "lib/python3.8/site-packages/Protego-0.1.16.dist-info/WHEEL",
+    "lib/python3.8/site-packages/Protego-0.1.16.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/protego.py",
+    "lib/python3.8/site-packages/__pycache__/protego.cpython-38.pyc"
+  ],
+  "fn": "protego-0.1.16-py_0.tar.bz2",
+  "license": "BSD 3-Clauses",
+  "link": {
+    "source": "/home/urh/miniconda3/pkgs/protego-0.1.16-py_0",
+    "type": 1
+  },
+  "md5": "8d2c72115e1deaa63fa1d55df3d95da9",
+  "name": "protego",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/urh/miniconda3/pkgs/protego-0.1.16-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/Protego-0.1.16.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/Protego-0.1.16.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "07f276b2c407d709843f91b0c0ee75c185e9e45663f1770d76429e4243bbc54e",
+        "sha256_in_prefix": "07f276b2c407d709843f91b0c0ee75c185e9e45663f1770d76429e4243bbc54e",
+        "size_in_bytes": 1519
+      },
+      {
+        "_path": "site-packages/Protego-0.1.16.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "8c136563a01da9a5c9cf3d0d9dee6948c041d359de03551351325ffb8cd35c7e",
+        "sha256_in_prefix": "8c136563a01da9a5c9cf3d0d9dee6948c041d359de03551351325ffb8cd35c7e",
+        "size_in_bytes": 3662
+      },
+      {
+        "_path": "site-packages/Protego-0.1.16.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "b5c078494e518d9e0b2606d78aaad91ae7d978ae007f3dec54b40929a1050b49",
+        "sha256_in_prefix": "b5c078494e518d9e0b2606d78aaad91ae7d978ae007f3dec54b40929a1050b49",
+        "size_in_bytes": 568
+      },
+      {
+        "_path": "site-packages/Protego-0.1.16.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "09b51d2d3a83dfee3359e99ff37ae047fdbf302e13797c3da97c2b5ed7b9c38c",
+        "sha256_in_prefix": "09b51d2d3a83dfee3359e99ff37ae047fdbf302e13797c3da97c2b5ed7b9c38c",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/Protego-0.1.16.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "61a19fa66587e95e0a6adb290a5dbfee0ac1124196d1d0e2d302301e97b85717",
+        "sha256_in_prefix": "61a19fa66587e95e0a6adb290a5dbfee0ac1124196d1d0e2d302301e97b85717",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "site-packages/protego.py",
+        "path_type": "hardlink",
+        "sha256": "2358757cf36c7df5b221fd432cd31d882af756de93795793e1c02b2a36e180c6",
+        "sha256_in_prefix": "2358757cf36c7df5b221fd432cd31d882af756de93795793e1c02b2a36e180c6",
+        "size_in_bytes": 17036
+      },
+      {
+        "_path": "lib/python3.8/site-packages/__pycache__/protego.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "74ada8f0cc28e9e4f3b20b583d234dc3346757b432afbd9b8c931328b0120cb2",
+  "size": 2684528,
+  "subdir": "noarch",
+  "timestamp": 1583249222383,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/protego-0.1.16-py_0.tar.bz2",
+  "version": "0.1.16"
+}

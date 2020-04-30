@@ -1,0 +1,168 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "attrs >=16.0.0",
+    "pyasn1",
+    "pyasn1-modules",
+    "pyopenssl >=0.12",
+    "python"
+  ],
+  "extracted_package_dir": "/home/urh/miniconda3/pkgs/service_identity-18.1.0-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/service_identity-18.1.0.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/service_identity-18.1.0.dist-info/LICENSE",
+    "lib/python3.8/site-packages/service_identity-18.1.0.dist-info/METADATA",
+    "lib/python3.8/site-packages/service_identity-18.1.0.dist-info/RECORD",
+    "lib/python3.8/site-packages/service_identity-18.1.0.dist-info/WHEEL",
+    "lib/python3.8/site-packages/service_identity-18.1.0.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/service_identity/__init__.py",
+    "lib/python3.8/site-packages/service_identity/_common.py",
+    "lib/python3.8/site-packages/service_identity/_compat.py",
+    "lib/python3.8/site-packages/service_identity/cryptography.py",
+    "lib/python3.8/site-packages/service_identity/exceptions.py",
+    "lib/python3.8/site-packages/service_identity/pyopenssl.py",
+    "lib/python3.8/site-packages/service_identity/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/service_identity/__pycache__/_common.cpython-38.pyc",
+    "lib/python3.8/site-packages/service_identity/__pycache__/_compat.cpython-38.pyc",
+    "lib/python3.8/site-packages/service_identity/__pycache__/cryptography.cpython-38.pyc",
+    "lib/python3.8/site-packages/service_identity/__pycache__/exceptions.cpython-38.pyc",
+    "lib/python3.8/site-packages/service_identity/__pycache__/pyopenssl.cpython-38.pyc"
+  ],
+  "fn": "service_identity-18.1.0-py_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/urh/miniconda3/pkgs/service_identity-18.1.0-py_0",
+    "type": 1
+  },
+  "md5": "bea53ad2212fa8f270c427bd40ce1fbd",
+  "name": "service_identity",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/urh/miniconda3/pkgs/service_identity-18.1.0-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/service_identity-18.1.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "site-packages/service_identity-18.1.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "c5075126e1272b176504e36af369781a95c5c1124239da8e4f61b0f9c15a56cf",
+        "sha256_in_prefix": "c5075126e1272b176504e36af369781a95c5c1124239da8e4f61b0f9c15a56cf",
+        "size_in_bytes": 1059
+      },
+      {
+        "_path": "site-packages/service_identity-18.1.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "8587c031f23a092f98097ccb49ceea30302df7c38e29e6180644458d194c0cb1",
+        "sha256_in_prefix": "8587c031f23a092f98097ccb49ceea30302df7c38e29e6180644458d194c0cb1",
+        "size_in_bytes": 4911
+      },
+      {
+        "_path": "site-packages/service_identity-18.1.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "180617b225e15dcd25d57a16c5a484b3b2dbc09d445538b585ee04155ac08595",
+        "sha256_in_prefix": "180617b225e15dcd25d57a16c5a484b3b2dbc09d445538b585ee04155ac08595",
+        "size_in_bytes": 1263
+      },
+      {
+        "_path": "site-packages/service_identity-18.1.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "42b0b122eadd3b4fe272a81db11f2727cbd28ec8c2d6cfe85a60cf3afcf2c42c",
+        "sha256_in_prefix": "42b0b122eadd3b4fe272a81db11f2727cbd28ec8c2d6cfe85a60cf3afcf2c42c",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/service_identity-18.1.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "3fa6c8892f0a619e7bf31734e6baa31eedd12f76683d16ce90b426ac498cf45d",
+        "sha256_in_prefix": "3fa6c8892f0a619e7bf31734e6baa31eedd12f76683d16ce90b426ac498cf45d",
+        "size_in_bytes": 17
+      },
+      {
+        "_path": "site-packages/service_identity/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "430d880d34e4942fac0e315974fed425c2c71a72d799c8c2c87386b7303b3eee",
+        "sha256_in_prefix": "430d880d34e4942fac0e315974fed425c2c71a72d799c8c2c87386b7303b3eee",
+        "size_in_bytes": 690
+      },
+      {
+        "_path": "site-packages/service_identity/_common.py",
+        "path_type": "hardlink",
+        "sha256": "d3e27ad1fe9b2bb442a1743d0b75fdc4383155eff2bd558488c7b9d4252d4ec0",
+        "sha256_in_prefix": "d3e27ad1fe9b2bb442a1743d0b75fdc4383155eff2bd558488c7b9d4252d4ec0",
+        "size_in_bytes": 11796
+      },
+      {
+        "_path": "site-packages/service_identity/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "e94a8948d277843b8e36f23d78dcffd62c0abebffe5357a83027252294cfd2d7",
+        "sha256_in_prefix": "e94a8948d277843b8e36f23d78dcffd62c0abebffe5357a83027252294cfd2d7",
+        "size_in_bytes": 308
+      },
+      {
+        "_path": "site-packages/service_identity/cryptography.py",
+        "path_type": "hardlink",
+        "sha256": "ce484b49ec20deb8dc0f83d32cd1646d386707318098b2a761b55ef308071c10",
+        "sha256_in_prefix": "ce484b49ec20deb8dc0f83d32cd1646d386707318098b2a761b55ef308071c10",
+        "size_in_bytes": 4977
+      },
+      {
+        "_path": "site-packages/service_identity/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "abafb02969b8a843e5359ec02ef6b3b3ad18c3b23348f7c5ec86726935f4a467",
+        "sha256_in_prefix": "abafb02969b8a843e5359ec02ef6b3b3ad18c3b23348f7c5ec86726935f4a467",
+        "size_in_bytes": 1264
+      },
+      {
+        "_path": "site-packages/service_identity/pyopenssl.py",
+        "path_type": "hardlink",
+        "sha256": "ed762dc65e05ae2420fc2e3fac9b44435f368b4839dc3834ab2f1b609b4a892e",
+        "sha256_in_prefix": "ed762dc65e05ae2420fc2e3fac9b44435f368b4839dc3834ab2f1b609b4a892e",
+        "size_in_bytes": 5154
+      },
+      {
+        "_path": "lib/python3.8/site-packages/service_identity/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/service_identity/__pycache__/_common.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/service_identity/__pycache__/_compat.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/service_identity/__pycache__/cryptography.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/service_identity/__pycache__/exceptions.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/service_identity/__pycache__/pyopenssl.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "aabca61304538d96a1d2cd351a035be0e2cde4e4b7a7a7dff7b0e2a38f735ba5",
+  "size": 12544,
+  "subdir": "noarch",
+  "timestamp": 1557437824765,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/service_identity-18.1.0-py_0.tar.bz2",
+  "version": "18.1.0"
+}
