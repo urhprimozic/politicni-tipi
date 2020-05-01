@@ -1,0 +1,12 @@
+prefix=/mnt/Podatki/Programiranje/politicni-tipi/politicni-tipi/envs
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+
+Name: libxslt
+Version: 1.1.33
+Description: XSLT library version 2.
+Requires: libxml-2.0
+Libs: -L${libdir} -lxslt -L/mnt/Podatki/Programiranje/politicni-tipi/politicni-tipi/envs/lib -lxml2 -L/mnt/Podatki/Programiranje/politicni-tipi/politicni-tipi/envs/lib -lz -L/mnt/Podatki/Programiranje/politicni-tipi/politicni-tipi/envs/lib -llzma -lpthread -L/mnt/Podatki/Programiranje/politicni-tipi/politicni-tipi/envs/lib -liconv -L/mnt/Podatki/Programiranje/politicni-tipi/politicni-tipi/envs/lib -licui18n -licuuc -licudata -lm -ldl -lm  -lrt
+Cflags: -I${includedir}

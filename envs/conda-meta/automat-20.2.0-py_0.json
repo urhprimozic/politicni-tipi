@@ -1,0 +1,257 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "attrs >=16.1.0",
+    "python",
+    "six"
+  ],
+  "extracted_package_dir": "/home/urh/miniconda3/pkgs/automat-20.2.0-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/Automat-20.2.0.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/Automat-20.2.0.dist-info/LICENSE",
+    "lib/python3.8/site-packages/Automat-20.2.0.dist-info/METADATA",
+    "lib/python3.8/site-packages/Automat-20.2.0.dist-info/RECORD",
+    "lib/python3.8/site-packages/Automat-20.2.0.dist-info/WHEEL",
+    "lib/python3.8/site-packages/Automat-20.2.0.dist-info/entry_points.txt",
+    "lib/python3.8/site-packages/Automat-20.2.0.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/automat/__init__.py",
+    "lib/python3.8/site-packages/automat/_core.py",
+    "lib/python3.8/site-packages/automat/_discover.py",
+    "lib/python3.8/site-packages/automat/_introspection.py",
+    "lib/python3.8/site-packages/automat/_methodical.py",
+    "lib/python3.8/site-packages/automat/_test/__init__.py",
+    "lib/python3.8/site-packages/automat/_test/test_core.py",
+    "lib/python3.8/site-packages/automat/_test/test_discover.py",
+    "lib/python3.8/site-packages/automat/_test/test_methodical.py",
+    "lib/python3.8/site-packages/automat/_test/test_trace.py",
+    "lib/python3.8/site-packages/automat/_test/test_visualize.py",
+    "lib/python3.8/site-packages/automat/_visualize.py",
+    "lib/python3.8/site-packages/automat/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/automat/__pycache__/_core.cpython-38.pyc",
+    "lib/python3.8/site-packages/automat/__pycache__/_discover.cpython-38.pyc",
+    "lib/python3.8/site-packages/automat/__pycache__/_introspection.cpython-38.pyc",
+    "lib/python3.8/site-packages/automat/__pycache__/_methodical.cpython-38.pyc",
+    "lib/python3.8/site-packages/automat/_test/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/automat/_test/__pycache__/test_core.cpython-38.pyc",
+    "lib/python3.8/site-packages/automat/_test/__pycache__/test_discover.cpython-38.pyc",
+    "lib/python3.8/site-packages/automat/_test/__pycache__/test_methodical.cpython-38.pyc",
+    "lib/python3.8/site-packages/automat/_test/__pycache__/test_trace.cpython-38.pyc",
+    "lib/python3.8/site-packages/automat/_test/__pycache__/test_visualize.cpython-38.pyc",
+    "lib/python3.8/site-packages/automat/__pycache__/_visualize.cpython-38.pyc",
+    "bin/automat-visualize"
+  ],
+  "fn": "automat-20.2.0-py_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/urh/miniconda3/pkgs/automat-20.2.0-py_0",
+    "type": 1
+  },
+  "md5": "0931a4f6f2a28ab4af8316027142a295",
+  "name": "automat",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/urh/miniconda3/pkgs/automat-20.2.0-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/Automat-20.2.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/Automat-20.2.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "b2201301678d0a937d938543827ca1360712eb34e23de8ee3f3bfffbd4c0e376",
+        "sha256_in_prefix": "b2201301678d0a937d938543827ca1360712eb34e23de8ee3f3bfffbd4c0e376",
+        "size_in_bytes": 1053
+      },
+      {
+        "_path": "site-packages/Automat-20.2.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "b163129956e8a98ab7c922690a1f30fe8dd227243e3f31b0f583f714de6e1518",
+        "sha256_in_prefix": "b163129956e8a98ab7c922690a1f30fe8dd227243e3f31b0f583f714de6e1518",
+        "size_in_bytes": 17920
+      },
+      {
+        "_path": "site-packages/Automat-20.2.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "1179a7a1805ca63e956dcb456860270a85281b03c90c031b3ab36b44eae5d249",
+        "sha256_in_prefix": "1179a7a1805ca63e956dcb456860270a85281b03c90c031b3ab36b44eae5d249",
+        "size_in_bytes": 2014
+      },
+      {
+        "_path": "site-packages/Automat-20.2.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046",
+        "sha256_in_prefix": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/Automat-20.2.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "8b8b43339ab0cb7bf528837b1134b65d155c1e44e1864abb6454cfbb23fa0690",
+        "sha256_in_prefix": "8b8b43339ab0cb7bf528837b1134b65d155c1e44e1864abb6454cfbb23fa0690",
+        "size_in_bytes": 63
+      },
+      {
+        "_path": "site-packages/Automat-20.2.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "be0e3300eca13ffdd80a6a4a64b360170d6e305de50bf6fa4cab1dcfb8c14a92",
+        "sha256_in_prefix": "be0e3300eca13ffdd80a6a4a64b360170d6e305de50bf6fa4cab1dcfb8c14a92",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "site-packages/automat/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "79cf0f20b070b77e71cb3b2cb54f64c7ca790038ba297f5dd6b04b66ca1c37f6",
+        "sha256_in_prefix": "79cf0f20b070b77e71cb3b2cb54f64c7ca790038ba297f5dd6b04b66ca1c37f6",
+        "size_in_bytes": 169
+      },
+      {
+        "_path": "site-packages/automat/_core.py",
+        "path_type": "hardlink",
+        "sha256": "204b591eadf0b0164f5ff55f307305cbfb8d8f1d647c4d7542afa79885d97b6f",
+        "sha256_in_prefix": "204b591eadf0b0164f5ff55f307305cbfb8d8f1d647c4d7542afa79885d97b6f",
+        "size_in_bytes": 4819
+      },
+      {
+        "_path": "site-packages/automat/_discover.py",
+        "path_type": "hardlink",
+        "sha256": "c9eecd1cb664af062c3e60694c8c89b89f954429b090e5290348acf80f35cf4e",
+        "sha256_in_prefix": "c9eecd1cb664af062c3e60694c8c89b89f954429b090e5290348acf80f35cf4e",
+        "size_in_bytes": 4367
+      },
+      {
+        "_path": "site-packages/automat/_introspection.py",
+        "path_type": "hardlink",
+        "sha256": "8b950419d8fc969d819c79c6780c88c04ca8376814d675d883e64f357ee805b3",
+        "sha256_in_prefix": "8b950419d8fc969d819c79c6780c88c04ca8376814d675d883e64f357ee805b3",
+        "size_in_bytes": 1274
+      },
+      {
+        "_path": "site-packages/automat/_methodical.py",
+        "path_type": "hardlink",
+        "sha256": "b6f2102ccccc33577a87f8d409038cf733c9a0661841983427922446cce08c1d",
+        "sha256_in_prefix": "b6f2102ccccc33577a87f8d409038cf733c9a0661841983427922446cce08c1d",
+        "size_in_bytes": 15930
+      },
+      {
+        "_path": "site-packages/automat/_test/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/automat/_test/test_core.py",
+        "path_type": "hardlink",
+        "sha256": "083986050362f4fafb664b5f05c3a106fc08ef08cb2d846d599d0fe5b69738d6",
+        "sha256_in_prefix": "083986050362f4fafb664b5f05c3a106fc08ef08cb2d846d599d0fe5b69738d6",
+        "size_in_bytes": 2833
+      },
+      {
+        "_path": "site-packages/automat/_test/test_discover.py",
+        "path_type": "hardlink",
+        "sha256": "3bd9dd01d4400bcb8ed2e0e18a8cf77b8e44b09085d7d8d06444a3d11042ed93",
+        "sha256_in_prefix": "3bd9dd01d4400bcb8ed2e0e18a8cf77b8e44b09085d7d8d06444a3d11042ed93",
+        "size_in_bytes": 21846
+      },
+      {
+        "_path": "site-packages/automat/_test/test_methodical.py",
+        "path_type": "hardlink",
+        "sha256": "b750802ad4f57ecf85a0a310c57978932ebfea98291bb9460dbc90adbfef21ea",
+        "sha256_in_prefix": "b750802ad4f57ecf85a0a310c57978932ebfea98291bb9460dbc90adbfef21ea",
+        "size_in_bytes": 18856
+      },
+      {
+        "_path": "site-packages/automat/_test/test_trace.py",
+        "path_type": "hardlink",
+        "sha256": "331d41f1081a13b40593a6e54e27b68fe571f7985357ecf24a79712da96df1e9",
+        "sha256_in_prefix": "331d41f1081a13b40593a6e54e27b68fe571f7985357ecf24a79712da96df1e9",
+        "size_in_bytes": 3279
+      },
+      {
+        "_path": "site-packages/automat/_test/test_visualize.py",
+        "path_type": "hardlink",
+        "sha256": "f04acd631a2f4e20f2664624a0fd4173211acd4fecd1843734775f1fd3a28408",
+        "sha256_in_prefix": "f04acd631a2f4e20f2664624a0fd4173211acd4fecd1843734775f1fd3a28408",
+        "size_in_bytes": 13744
+      },
+      {
+        "_path": "site-packages/automat/_visualize.py",
+        "path_type": "hardlink",
+        "sha256": "8d8f0793368674ca1707b2dabef6a7796e0676d04de8f452865efee0e5c3becb",
+        "sha256_in_prefix": "8d8f0793368674ca1707b2dabef6a7796e0676d04de8f452865efee0e5c3becb",
+        "size_in_bytes": 6335
+      },
+      {
+        "_path": "lib/python3.8/site-packages/automat/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/automat/__pycache__/_core.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/automat/__pycache__/_discover.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/automat/__pycache__/_introspection.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/automat/__pycache__/_methodical.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/automat/_test/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/automat/_test/__pycache__/test_core.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/automat/_test/__pycache__/test_discover.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/automat/_test/__pycache__/test_methodical.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/automat/_test/__pycache__/test_trace.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/automat/_test/__pycache__/test_visualize.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/automat/__pycache__/_visualize.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "bin/automat-visualize",
+        "path_type": "unix_python_entry_point"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "2a74bb41c99145bfb376d071bd8b2de2d1b99b29ca7dd39a3243a3a1cc4f0316",
+  "size": 30510,
+  "subdir": "noarch",
+  "timestamp": 1582070846624,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/automat-20.2.0-py_0.tar.bz2",
+  "version": "20.2.0"
+}

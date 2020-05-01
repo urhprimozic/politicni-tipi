@@ -1,0 +1,132 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "/home/urh/miniconda3/pkgs/cssselect-1.1.0-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/cssselect-1.1.0.dist-info/AUTHORS",
+    "lib/python3.8/site-packages/cssselect-1.1.0.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/cssselect-1.1.0.dist-info/LICENSE",
+    "lib/python3.8/site-packages/cssselect-1.1.0.dist-info/METADATA",
+    "lib/python3.8/site-packages/cssselect-1.1.0.dist-info/RECORD",
+    "lib/python3.8/site-packages/cssselect-1.1.0.dist-info/WHEEL",
+    "lib/python3.8/site-packages/cssselect-1.1.0.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/cssselect/__init__.py",
+    "lib/python3.8/site-packages/cssselect/parser.py",
+    "lib/python3.8/site-packages/cssselect/xpath.py",
+    "lib/python3.8/site-packages/cssselect/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/cssselect/__pycache__/parser.cpython-38.pyc",
+    "lib/python3.8/site-packages/cssselect/__pycache__/xpath.cpython-38.pyc"
+  ],
+  "fn": "cssselect-1.1.0-py_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "/home/urh/miniconda3/pkgs/cssselect-1.1.0-py_0",
+    "type": 1
+  },
+  "md5": "c2b0104cc7d2ef771a40281a26524b87",
+  "name": "cssselect",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/urh/miniconda3/pkgs/cssselect-1.1.0-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/cssselect-1.1.0.dist-info/AUTHORS",
+        "path_type": "hardlink",
+        "sha256": "d313a3dc7f22208e8cfca5a6a0361046ecd3ad8acb3db27c2b6915480a10e734",
+        "sha256_in_prefix": "d313a3dc7f22208e8cfca5a6a0361046ecd3ad8acb3db27c2b6915480a10e734",
+        "size_in_bytes": 171
+      },
+      {
+        "_path": "site-packages/cssselect-1.1.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/cssselect-1.1.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "5c8da9f744e0afba81a48c9b5dbe73048f798b3287d6f1af8a05ee08ebb10892",
+        "sha256_in_prefix": "5c8da9f744e0afba81a48c9b5dbe73048f798b3287d6f1af8a05ee08ebb10892",
+        "size_in_bytes": 1517
+      },
+      {
+        "_path": "site-packages/cssselect-1.1.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "2f593d831973deab8f04c3dea644cea34b4f5d5da5f1c425fb26469cefa03547",
+        "sha256_in_prefix": "2f593d831973deab8f04c3dea644cea34b4f5d5da5f1c425fb26469cefa03547",
+        "size_in_bytes": 2332
+      },
+      {
+        "_path": "site-packages/cssselect-1.1.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "d8ce4a0eceee6d6f3d7e46f1612546624fef2ab9c85e9241bacf0e6472a2df30",
+        "sha256_in_prefix": "d8ce4a0eceee6d6f3d7e46f1612546624fef2ab9c85e9241bacf0e6472a2df30",
+        "size_in_bytes": 888
+      },
+      {
+        "_path": "site-packages/cssselect-1.1.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "87f6959f9381d8811152331b8b6a6e72647fcf3589b64df4dd85ef861eb4349f",
+        "sha256_in_prefix": "87f6959f9381d8811152331b8b6a6e72647fcf3589b64df4dd85ef861eb4349f",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/cssselect-1.1.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "18a2b752dbbf71ea20e822b6ed55cd75bca2a869e8c89a37f7bd052e8e497545",
+        "sha256_in_prefix": "18a2b752dbbf71ea20e822b6ed55cd75bca2a869e8c89a37f7bd052e8e497545",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "site-packages/cssselect/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7e67692abcf9fae600cd7521dcb30eac43e224c10d07581ff7adafe4dab9ca2b",
+        "sha256_in_prefix": "7e67692abcf9fae600cd7521dcb30eac43e224c10d07581ff7adafe4dab9ca2b",
+        "size_in_bytes": 639
+      },
+      {
+        "_path": "site-packages/cssselect/parser.py",
+        "path_type": "hardlink",
+        "sha256": "8eb951c44a5215f8aa60729f5078e011174c43015bbec877b0e362fc78930f2b",
+        "sha256_in_prefix": "8eb951c44a5215f8aa60729f5078e011174c43015bbec877b0e362fc78930f2b",
+        "size_in_bytes": 26145
+      },
+      {
+        "_path": "site-packages/cssselect/xpath.py",
+        "path_type": "hardlink",
+        "sha256": "233cb809798aeb3307835dcf3faddb069d3ae5e1593417cf25e3728634ac4bb4",
+        "sha256_in_prefix": "233cb809798aeb3307835dcf3faddb069d3ae5e1593417cf25e3728634ac4bb4",
+        "size_in_bytes": 28257
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cssselect/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cssselect/__pycache__/parser.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cssselect/__pycache__/xpath.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "12b97448525b18ed77c987d2328a34ca07358b221cf3d1cbaf85cf76b0aa08de",
+  "size": 18049,
+  "subdir": "noarch",
+  "timestamp": 1565786538685,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/cssselect-1.1.0-py_0.tar.bz2",
+  "version": "1.1.0"
+}

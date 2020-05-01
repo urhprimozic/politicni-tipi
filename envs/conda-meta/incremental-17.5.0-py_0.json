@@ -1,0 +1,171 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "/home/urh/miniconda3/pkgs/incremental-17.5.0-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/incremental-17.5.0-py3.6.egg-info/PKG-INFO",
+    "lib/python3.8/site-packages/incremental-17.5.0-py3.6.egg-info/SOURCES.txt",
+    "lib/python3.8/site-packages/incremental-17.5.0-py3.6.egg-info/dependency_links.txt",
+    "lib/python3.8/site-packages/incremental-17.5.0-py3.6.egg-info/entry_points.txt",
+    "lib/python3.8/site-packages/incremental-17.5.0-py3.6.egg-info/not-zip-safe",
+    "lib/python3.8/site-packages/incremental-17.5.0-py3.6.egg-info/requires.txt",
+    "lib/python3.8/site-packages/incremental-17.5.0-py3.6.egg-info/top_level.txt",
+    "lib/python3.8/site-packages/incremental/__init__.py",
+    "lib/python3.8/site-packages/incremental/_version.py",
+    "lib/python3.8/site-packages/incremental/tests/__init__.py",
+    "lib/python3.8/site-packages/incremental/tests/test_update.py",
+    "lib/python3.8/site-packages/incremental/tests/test_version.py",
+    "lib/python3.8/site-packages/incremental/update.py",
+    "lib/python3.8/site-packages/incremental/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/incremental/__pycache__/_version.cpython-38.pyc",
+    "lib/python3.8/site-packages/incremental/tests/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/incremental/tests/__pycache__/test_update.cpython-38.pyc",
+    "lib/python3.8/site-packages/incremental/tests/__pycache__/test_version.cpython-38.pyc",
+    "lib/python3.8/site-packages/incremental/__pycache__/update.cpython-38.pyc"
+  ],
+  "fn": "incremental-17.5.0-py_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/urh/miniconda3/pkgs/incremental-17.5.0-py_0",
+    "type": 1
+  },
+  "md5": "893135cf399e206eaa192e437a61bef9",
+  "name": "incremental",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/urh/miniconda3/pkgs/incremental-17.5.0-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/incremental-17.5.0-py3.6.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "ac9fc15713b4e4bc9d0b91ce0515137ebafc6f60990ca631dca2730ad3e2902e",
+        "sha256_in_prefix": "ac9fc15713b4e4bc9d0b91ce0515137ebafc6f60990ca631dca2730ad3e2902e",
+        "size_in_bytes": 6399
+      },
+      {
+        "_path": "site-packages/incremental-17.5.0-py3.6.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "6a4ef8f0ce3667676844643bf69044909b06b157bd08e2365c6856a1eba6632a",
+        "sha256_in_prefix": "6a4ef8f0ce3667676844643bf69044909b06b157bd08e2365c6856a1eba6632a",
+        "size_in_bytes": 557
+      },
+      {
+        "_path": "site-packages/incremental-17.5.0-py3.6.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/incremental-17.5.0-py3.6.egg-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "f00a74ac9f06f531e023e658c40b0625521f7dc120339cb41a58706652c3d333",
+        "sha256_in_prefix": "f00a74ac9f06f531e023e658c40b0625521f7dc120339cb41a58706652c3d333",
+        "size_in_bytes": 83
+      },
+      {
+        "_path": "site-packages/incremental-17.5.0-py3.6.egg-info/not-zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/incremental-17.5.0-py3.6.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "f13f77daf349b2fea25c09fac9f925aee6d9793e6ca4e1927019b56ed8f9b2f9",
+        "sha256_in_prefix": "f13f77daf349b2fea25c09fac9f925aee6d9793e6ca4e1927019b56ed8f9b2f9",
+        "size_in_bytes": 38
+      },
+      {
+        "_path": "site-packages/incremental-17.5.0-py3.6.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "755a58c22e9a83c4e5a1c0431007c3ec7c9d9485a856687a11232fd388b351d7",
+        "sha256_in_prefix": "755a58c22e9a83c4e5a1c0431007c3ec7c9d9485a856687a11232fd388b351d7",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "site-packages/incremental/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "17db0c92de30354d28f4b8a544bfdb8e1db1d942f78f4a3c4d0d00cefb7a0361",
+        "sha256_in_prefix": "17db0c92de30354d28f4b8a544bfdb8e1db1d942f78f4a3c4d0d00cefb7a0361",
+        "size_in_bytes": 9213
+      },
+      {
+        "_path": "site-packages/incremental/_version.py",
+        "path_type": "hardlink",
+        "sha256": "54d6dd2011d69e18f62a01095358df09a5c4d3f4e43a87d366547d2679e473b6",
+        "sha256_in_prefix": "54d6dd2011d69e18f62a01095358df09a5c4d3f4e43a87d366547d2679e473b6",
+        "size_in_bytes": 272
+      },
+      {
+        "_path": "site-packages/incremental/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/incremental/tests/test_update.py",
+        "path_type": "hardlink",
+        "sha256": "065b1b83fe1875d6f3d76189ecfd5a65ea5723494b602e66a626e39207884345",
+        "sha256_in_prefix": "065b1b83fe1875d6f3d76189ecfd5a65ea5723494b602e66a626e39207884345",
+        "size_in_bytes": 23630
+      },
+      {
+        "_path": "site-packages/incremental/tests/test_version.py",
+        "path_type": "hardlink",
+        "sha256": "cdfe923b64f87cb3af9a310a2105b08ac98c0d0a02ca0aa84e76f522c727d7ca",
+        "sha256_in_prefix": "cdfe923b64f87cb3af9a310a2105b08ac98c0d0a02ca0aa84e76f522c727d7ca",
+        "size_in_bytes": 14700
+      },
+      {
+        "_path": "site-packages/incremental/update.py",
+        "path_type": "hardlink",
+        "sha256": "5dd5840b739b62eb25d579eb421c2c0f3c427900e31d3967aea6166297c69f5f",
+        "sha256_in_prefix": "5dd5840b739b62eb25d579eb421c2c0f3c427900e31d3967aea6166297c69f5f",
+        "size_in_bytes": 6150
+      },
+      {
+        "_path": "lib/python3.8/site-packages/incremental/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/incremental/__pycache__/_version.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/incremental/tests/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/incremental/tests/__pycache__/test_update.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/incremental/tests/__pycache__/test_version.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/incremental/__pycache__/update.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "94659209b9c941a92a41768c0abb2ed7e810dc64b4c5d868507ae94a67e02f51",
+  "size": 14446,
+  "subdir": "noarch",
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/incremental-17.5.0-py_0.tar.bz2",
+  "version": "17.5.0"
+}
