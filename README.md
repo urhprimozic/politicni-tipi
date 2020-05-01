@@ -1,5 +1,5 @@
 # Politični tipi
-V README.md so dovoljene slengovske tukje, koda in komantarji pa naj vsebujejo čim bolj odurne slovenske ustreznice. 
+V README.md so dovoljene slengovske tujke, koda in komantarji pa naj vsebujejo čim bolj odurne slovenske ustreznice. 
 
 ## Trenutno bi bila ustreznejša uporaba dvojine
 Prijatelja Levičar in Desničar, ki na socialnih omrežjih delita svoje politične ideje.
@@ -7,20 +7,20 @@ Prijatelja Levičar in Desničar, ki na socialnih omrežjih delita svoje politi�
 ## Ideja
 2 samostojna programa (Levičar in Desničar) bi s pomočjo procesiranja besedila in aktivnosti na socialnih omrežjih simulirala obnašanje povprečnega slovenskega navdušenca nad politiko.
 ### Procesiranje in konstruiranje besedila
-Na podlagi baze podatkov bi opremila vhodno besedilo z čustvenčki in vzkliki, primernimi njunim političnim čustvom.
+Na podlagi baze podatkov bi opremila vhodno besedilo s čustvenčki in vzkliki, primernimi njunim političnim čustvom.
 
 Primer za Levičarja:
 Vhod | Izhod
 ------------ | -------------
 Luka nosi rdeč pulover in  ne mara Janeza. | Luka:heart: nosi rdeč :heart_eyes: pulover in ne mara Janeza :poop:.
 ### Twitter
-Svoje politične govore bi delila na twiterju, kjer bi tuje politične twite prejela kot vhodno besedilo. Seveda bosta oba nadobudna filozofa ustvarjala tudi avtorsko prozo.
+Svoje politične govore bi delila na Twitterju, kjer bi tuje politične tweete prejela kot vhodno besedilo. Seveda bosta oba nadobudna filozofa ustvarjala tudi avtorsko prozo.
 
 Primer za Desničarja:
 
 Janša je moj :heart:, homosekusalci so :thumbsdown:.
 ### Umetna inteligenca
-Našo ciljno skupino se sicer da simulirati brez AI, seveda pa so vse izbolšave, ki bodo naredila projekt še bolj neznosen za slovenski twitter, zaželjene.
+Našo ciljno skupino se sicer da simulirati brez AI, seveda pa so vse izbolšave, ki bodo naredila projekt še bolj neznosen za slovenski Twitter, zaželjene.
 ### Politična koreknost projekta
 Politična korektnost se v Tržiču žal še ni razvila.
 ### Izvedba
