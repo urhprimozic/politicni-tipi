@@ -3,6 +3,9 @@ import emoji #https://pypi.org/project/emoji/
 def razdeli_na_besede(niz): 
     """
     Funkcija, ki sprejme niz in vrne seznam kjer je vsak element ena beseda v nizu
+    primer uporabe : 
+    >>> razdeli_na_besede("Sveže novičke iz parlamenta")
+    ["Sveže", "novičke", "iz", "parlamenta"]
     """
     return niz.split()
 
