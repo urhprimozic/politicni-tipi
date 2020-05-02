@@ -1,6 +1,9 @@
 import emoji #https://pypi.org/project/emoji/
 
 def razdeli_na_besede(niz): 
+    """
+    Funkcija, ki sprejme niz in vrne seznam kjer je vsak element ena beseda v nizu
+    """
     return niz.split()
 
 class Politicni_Tip():
