@@ -1,0 +1,3 @@
+envs/
+.vscode/
+spiders/__pycache__/
